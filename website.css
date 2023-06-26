@@ -1,0 +1,154 @@
+.header{
+    color: purple;
+    margin-top: 10px;
+    }
+.fl{
+    position: relative;
+}
+.ll{
+    position: absolute;
+   
+}
+.tt+.rr{
+    margin-left: 90px;
+}
+.rr{
+    margin-left: -90px;
+}
+.top{
+  
+    font-size:17px;
+    margin-left: 1000px;
+   margin-top: 30px;
+   margin-bottom: -20px;
+   }
+.op{
+    margin-left: 1160px;
+    font-size:17px; 
+    margin-bottom: 20px;  
+    margin-top: -36px;
+}
+
+.fl{
+    float: left;
+}
+.tt{
+    margin-left:90px;
+    margin-bottom: 0px;
+}
+.ll{
+    width: 70px;
+    margin-left: 20px;
+   }
+.rr{
+margin-bottom: 0px;
+}
+.cen{
+   padding-top: 300px;
+   padding-left: 300px;
+   font-size: xx-large;
+   font-style: initial;
+   
+}
+.dd{
+    padding-left: 160px;
+}
+.bb{
+    padding-left: 240px;
+    
+}
+.aa{
+    color: purple;
+}
+.vv{
+    width: 1200px;
+    padding-left: 170px;
+    height: 500px;
+}
+.ww{
+    padding-top: 70px;
+   padding-left: 150px;
+   font-size: xx-large;
+   font-style: initial;
+}
+.cvb{
+    padding-left: 150px;
+}
+.hm img{
+    height: 400px;
+    padding-left: 100px;
+}
+.asd{
+    padding-left: 400px;
+  margin-top: -370px;
+}
+.be{
+    padding-left: 400px;
+  margin-top: -10px;
+}
+.jkl li{
+    font-weight:bold;
+    margin-left: 450px;
+}
+.po{
+    margin-left: 400px;
+    margin-top: 40px;
+    color: white;
+}
+.qq{
+    padding-left: 400px;
+    margin-top: -370px;
+}
+.oo li{
+    font-weight:bold;
+    margin-left: 450px;
+}
+.yy{
+    padding-left: 400px;
+  margin-top: -10px;
+}
+.ss{
+    padding-left: 400px;
+   padding-top: 25px;
+}
+.dd{
+   padding-left: 50px;
+   font-weight:900;
+}
+.rty {
+         
+   border:3px solid blue ;
+   width: 500px;
+   padding-top: 12px;
+   text-align: center;
+   margin-left:150px ;
+   font-weight: 600;
+   
+
+   }
+.kl{
+    border:3px solid blue ;
+   width: 500px;
+   padding-top: 12px;
+   text-align: center;
+   margin-left:150px ;
+   font-weight: 600;
+}
+.ppl{
+    margin-left: 50px;
+}
+.bbl{
+    margin-left: 50px;
+}
+
+.ffg{
+    margin-bottom: 300px;
+    
+    
+}
+.bbn{
+    padding-left:  250px;
+}
+.container{
+    padding-top: 80px;
+}
